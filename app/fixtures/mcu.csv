@@ -1,0 +1,6 @@
+model,id,character,movie_name,year,villian,phase,rating
+app.movies,1,tony stark,iron man I,2008,obedaiah,1,5
+app.movies,2,steve rogers,captain america,2010,red skull,1,5
+app.movies,3,thor,thor,2010,loki,1,4
+app.movies,4,banners,hulk,2010,hulk like,1,4
+app.movies,5,avengers,avengers,2012,"loki,thanos",1,5
